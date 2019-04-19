@@ -57,3 +57,10 @@ figcaption {
   color: black;
   text-decoration: none;
 }
+
+#details a:hover{
+  color: black;
+  text-decoration: underline;
+}
+
+#details a:
